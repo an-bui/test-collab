@@ -14,4 +14,12 @@ here's a description to commit
 
 # adding another header
 
+```
+.
+├── README.md
+├── files
+│   └── new-script.R
+└── test-collab.Rproj
+```
+
 # another one
