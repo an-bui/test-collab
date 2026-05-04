@@ -10,6 +10,8 @@ resolved issue
 
 # another one here
 
+here's a description to commit
+
 # adding another header
 
 # another one
